@@ -1,0 +1,86 @@
+BodyAcc-mean()-X              ---------------------- Body liner acceleration average on X
+BodyAcc-mean()-Y              ---------------------- Body liner acceleration average on Y
+BodyAcc-mean()-Z              ---------------------- Body liner acceleration average on Z
+BodyAcc-std()-X              ----------------------  Body liner acceleration standard variation on X
+BodyAcc-std()-Y              ----------------------  Body liner acceleration standard variation on Y
+BodyAcc-std()-Z              ----------------------  Body liner acceleration standard variation on Z
+GravityAcc-mean()-X              ---------------------- Gravity acceleration average on X
+GravityAcc-mean()-Y              ---------------------- Gravity acceleration average on Y
+GravityAcc-mean()-Z              ---------------------- Gravity acceleration average on Z
+tGravityAcc-std()-X              ---------------------- Gravity acceleration standard variation on X
+tGravityAcc-std()-Y              ---------------------- Gravity acceleration standard variation on Y
+tGravityAcc-std()-Z              ---------------------- Gravity acceleration standard variation on Z
+tBodyAccJerk-mean()-X              ---------------------- Body liner acceleration jerk average on X
+tBodyAccJerk-mean()-Y              ---------------------- Body liner acceleration jerk average on Y
+tBodyAccJerk-mean()-Z              ---------------------- Body liner acceleration jerk average on Z
+tBodyAccJerk-std()-X              ----------------------  Body liner acceleration jerk standard variation on X
+tBodyAccJerk-std()-Y              ----------------------  Body liner acceleration jerk standard variation on Y
+tBodyAccJerk-std()-Z              ----------------------  Body liner acceleration jerk standard variation on Z
+tBodyGyro-mean()-X              ----------------------    Body gyroscope average on X
+tBodyGyro-mean()-Y              ----------------------    Body gyroscope average on Y
+tBodyGyro-mean()-Z              ----------------------    Body gyroscope average on Z
+tBodyGyro-std()-X              ----------------------     Body gyroscope standard variation on X
+tBodyGyro-std()-Y              ----------------------     Body gyroscope standard variation on Y
+tBodyGyro-std()-Z              ----------------------     Body gyroscope standard variation on Z
+tBodyGyroJerk-mean()-X              ----------------------  Body gyroscope jerk average on X
+tBodyGyroJerk-mean()-Y              ----------------------  Body gyroscope jerk average on Y
+tBodyGyroJerk-mean()-Z              ----------------------  Body gyroscope jerk average on Z
+tBodyGyroJerk-std()-X              ----------------------   Body gyroscope jerk standard variation on X
+tBodyGyroJerk-std()-Y              ----------------------   Body gyroscope jerk standard variation on Y
+tBodyGyroJerk-std()-Z              ----------------------   Body gyroscope jerk standard variation on Z
+tBodyAccMag-mean()              ----------------------      Body acceleration magnitude avearage
+tBodyAccMag-std()              ----------------------       Body acceleration magnitude standard variation
+tGravityAccMag-mean()              ----------------------   Gravity acceleration magnitude avearage
+tGravityAccMag-std()              ----------------------    gravity acceleration magnitude standard variation
+tBodyAccJerkMag-mean()              ----------------------  Body acceleration jerk magnitude avearage
+tBodyAccJerkMag-std()              ----------------------   Body acceleration jerk magnitude standard variation
+tBodyGyroMag-mean()              ----------------------      Body gyroscope magnitude average
+tBodyGyroMag-std()              ----------------------       Body gyroscope magnitude standard variation
+tBodyGyroJerkMag-mean()              ----------------------  Body gyroscope jerk magnitude average
+tBodyGyroJerkMag-std()              ----------------------   Body gyroscope jerk magnitude standard variation
+fBodyAcc-mean()-X              ----------------------        frequency acceleration average on X
+fBodyAcc-mean()-Y              ----------------------        frequency acceleration average on Y
+fBodyAcc-mean()-Z              ----------------------        frequency acceleration average on Z
+fBodyAcc-std()-X              ----------------------         frequency acceleration standard variation on X
+fBodyAcc-std()-Y              ----------------------         frequency acceleration standard variation on Y
+fBodyAcc-std()-Z              ----------------------         frequency acceleration standard variation on Z
+fBodyAcc-meanFreq()-X----------------------                  frequency acceleration average frequency on X
+fBodyAcc-meanFreq()-Y----------------------                  frequency acceleration average frequency on Y
+fBodyAcc-meanFreq()-Z----------------------                  frequency acceleration average frequency on Z
+fBodyAccJerk-mean()-X----------------------                  frequency acceleration jerk average on X
+fBodyAccJerk-mean()-Y----------------------                  frequency acceleration jerk average on Y
+fBodyAccJerk-mean()-Z----------------------                  frequency acceleration jerk average on Z
+fBodyAccJerk-std()-X----------------------                   frequency acceleration jerk standard variation on X
+fBodyAccJerk-std()-Y----------------------                   frequency acceleration jerk standard variation on Y
+fBodyAccJerk-std()-Z----------------------                   frequency acceleration jerk standard variation on Z
+fBodyAccJerk-meanFreq()-X----------------------              frequency acceleration jerk average frenquency on X
+fBodyAccJerk-meanFreq()-Y----------------------              frequency acceleration jerk average frenquency on Y
+fBodyAccJerk-meanFreq()-Z----------------------              frequency acceleration jerk average frenquency on Z
+fBodyGyro-mean()-X----------------------                     frequency acceleration gyroscope average on X
+fBodyGyro-mean()-Y----------------------                     frequency acceleration gyroscope average on Y
+fBodyGyro-mean()-Z----------------------                     frequency acceleration gyroscope average on Z
+fBodyGyro-std()-X----------------------                      frequency acceleration gyroscope standard variation on X
+fBodyGyro-std()-Y----------------------                      frequency acceleration gyroscope standard variation on Y
+fBodyGyro-std()-Z----------------------                      frequency acceleration gyroscope standard variation on Z
+fBodyGyro-meanFreq()-X----------------------                 frequency acceleration gyroscope average frenquency on X
+fBodyGyro-meanFreq()-Y----------------------                 frequency acceleration gyroscope average frenquency on Y
+fBodyGyro-meanFreq()-Z----------------------                 frequency acceleration gyroscope average frenquency on Z
+fBodyAccMag-mean()----------------------                     frequency acceleration magnitude average
+fBodyAccMag-std()----------------------                      frequency acceleration magnitude standard variation
+fBodyAccMag-meanFreq()----------------------                 frequency acceleration magnitude average frequency
+fBodyBodyAccJerkMag-mean()----------------------             frequency acceleration jerk magnitude average
+fBodyBodyAccJerkMag-std()----------------------              frequency acceleration jerk magnitude standard variation
+fBodyBodyAccJerkMag-meanFreq()----------------------         frequency acceleration jerk magnitude average frequency
+fBodyBodyGyroMag-mean()----------------------                frequency acceleration gyroscope magnitude average
+fBodyBodyGyroMag-std()----------------------                 frequency acceleration gyroscope magnitude standard variation
+fBodyBodyGyroMag-meanFreq()----------------------            frequency acceleration gyroscope magnitude average frequency
+fBodyBodyGyroJerkMag-mean()----------------------            frequency acceleration jerk magnitude average
+fBodyBodyGyroJerkMag-std()----------------------             frequency acceleration jerk magnitude standard variation
+fBodyBodyGyroJerkMag-meanFreq()----------------------        frequency acceleration jerk magnitude average frequency
+angle(tBodyAccMean,gravity)----------------------            Angle between body acceleration jerk average and gravity
+angle(tBodyAccJerkMean),gravityMean)----------------------   Angle between body acceleration jerk average and gravity average
+angle(tBodyGyroMean,gravityMean)----------------------       Angle between body gyroscope average and gravity average
+angle(tBodyGyroJerkMean,gravityMean)----------------------   Angle between body gyroscope jerk average and gravity average
+angle(X,gravityMean)----------------------                   Angle between X and gravity average
+angle(Y,gravityMean)----------------------                   Angle between Y and gravity average
+angle(Z,gravityMean)----------------------                   Angle between Z and gravity average
